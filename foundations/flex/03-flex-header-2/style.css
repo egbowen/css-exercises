@@ -18,15 +18,12 @@ body {
   padding: 12px;
 }
 
-.left {
+.left,
+.right{
   display: flex;
   gap: 8px;
 }
 
-.right {
-  display: flex;
-  gap: 8px;
-}
 
 .profile-image {
   background: rebeccapurple;
